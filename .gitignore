@@ -1,0 +1,12 @@
+target/
+.idea/
+*.iml
+
+# Local Minecraft server files
+server/
+logs/
+world/
+world_nether/
+world_the_end/
+eula.txt
+

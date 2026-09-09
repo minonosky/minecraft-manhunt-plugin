@@ -1,0 +1,16 @@
+name: ManhuntPlugin
+version: 1.1.0
+main: com.manhunt.ManhuntPlugin
+api-version: '1.21'
+description: Manhunt tracking compass + Runner's Luck boosted drops
+
+commands:
+  manhunt:
+    description: Manhunt game management
+    usage: /manhunt <r|h|status|reset|resetworld> [player|seed]
+    permission: manhunt.admin
+
+permissions:
+  manhunt.admin:
+    description: Allows management of manhunt roles and game state
+    default: op

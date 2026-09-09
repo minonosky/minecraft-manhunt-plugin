@@ -1,0 +1,9 @@
+compass:
+  display-name: "&ctracker"
+  description: "&7right-click to cycle runners"
+  update-interval-ticks: 20
+
+runners-luck:
+  enderman-extra-drop-chance: 0.80
+  blaze-extra-drop-chance: 0.80
+  piglin-pearl-chance: 0.20
