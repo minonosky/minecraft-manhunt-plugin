@@ -1,6 +1,6 @@
 # Minecraft Manhunt Plugin
 
-this is a minecraft plugin i built for me and my friends to play manhunt. the pluigin itself is very
+this is a minecraft plugin i built for me and my friends to play manhunt. the plugin itself is very
 straightforward. server ops assign runners and hunters, hunters receive a compass that
 tracks the runners, and "Runner's Luck" boosts enderman, blaze, and piglin drops.
 
